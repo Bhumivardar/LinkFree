@@ -1,0 +1,13 @@
+{
+  "name": "Bhumika vardar",
+  "type": "personal",
+  "bio": "student are Techno INDAI NJR",
+  "links" : [
+    {
+      "name" : "Follow me on twitter",
+      "url" : "http://www.google.com",
+      "icon" : "faGitHub"r
+    }
+    
+    ]
+}
